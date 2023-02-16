@@ -29,7 +29,7 @@ header li a {color: blueviolet;}
 }
 
 .articles {
-    display: flex;
+    display: fl ex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
