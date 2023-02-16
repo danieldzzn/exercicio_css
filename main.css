@@ -5,9 +5,9 @@
 }
 
 body>header {
-    background-color: rgb(226, 167, 167);
+    background-color: rgb(241, 232, 232);
     paddin  g: 16px 0;
-    color: gray;
+    color: beige;
     justify-content: space-between;
 }
 header .container {
@@ -29,7 +29,7 @@ header li a {color: blueviolet;}
 }
 
 .articles {
-    display: fl ex;
+    display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
@@ -88,10 +88,10 @@ section h2 {
     background-color: rgb(217, 217, 199);
 }
 
-#economy .articles article {
+#entretenimento .articles article {
     background-color: rgb(105, 107, 229);
 }
   
-#economy .articles article a {
+#entretenimento .articles article a {
     background-color: rgb(60, 120, 128);
 }
