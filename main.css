@@ -7,7 +7,7 @@
 body>header {
     background-color: rgb(241, 232, 232);
     paddin  g: 16px 0;
-    color: beige;
+    color: black;
     justify-content: space-between;
 }
 header .container {
@@ -20,7 +20,7 @@ header li {
     margin-left: 16px;
 }
 
-header li a {color: blueviolet;}
+header li a {color: rgb(94, 94, 94);}
 
 .container {
     width: 1366px;
@@ -85,7 +85,7 @@ section h2 {
 }
 
 #sports .articles article a { 
-    background-color: rgb(217, 217, 199);
+    background-color: rgb(15, 53, 141);
 }
 
 #entretenimento .articles article {
