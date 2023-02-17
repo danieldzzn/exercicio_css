@@ -81,11 +81,11 @@ section h2 {
 }
 
 #sports .articles article {
-    background-color: rgba(183, 168, 125, 0.8);
+    background-color: aliceblue;
 }
 
 #sports .articles article a { 
-    background-color: rgb(15, 53, 141);
+    background-color: rgb(106, 121, 231);
 }
 
 #entretenimento .articles article {
